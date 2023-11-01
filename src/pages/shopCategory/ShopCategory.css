@@ -1,0 +1,134 @@
+.shop-category {
+  margin-top: 100px;
+  background: linear-gradient(180deg, #fde1ff, rgba(225, 255, 234, 0.133) 60%);
+}
+
+.shopcategory-banner {
+  display: block;
+  width: 100%;
+}
+
+.shopcategory-indexSort {
+  display: flex;
+  margin: 20px 170px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shopcategory-indexSort p span {
+  font-weight: 600;
+}
+
+.shopcategory-sort {
+  padding: 10px 20px;
+  border-radius: 40px;
+  border: 1px solid #888;
+}
+
+.shopcategory-products {
+  margin: 20px 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.shopcategory-loadmore {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px auto;
+  width: 233px;
+  height: 60px;
+  border-radius: 75px;
+  background: #ededed;
+  color: #787878;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+@media (max-width: 780px) {
+  .shopcategory-indexSort {
+    margin: 20px 100px;
+  }
+
+  .shopcategory-indexSort p {
+    font-size: 15px;
+  }
+
+  .shopcategory-sort {
+    padding: 5px 15px;
+    border-radius: 40px;
+    font-size: 15px;
+  }
+
+  .shopcategory-products {
+    margin: 20px 100px;
+    grid-template-columns: 1fr;
+  }
+
+  .shopcategory-loadmore {
+    margin: 130px auto;
+    width: 223px;
+    height: 59px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 450px) {
+  .shopcategory-indexSort {
+    margin: 18px 50px;
+  }
+
+  .shopcategory-indexSort p {
+    font-size: 12px;
+  }
+
+  .shopcategory-sort {
+    padding: 3px 15px;
+    border-radius: 40px;
+    font-size: 12px;
+  }
+
+  .shopcategory-products {
+    margin: 20px 50px;
+  }
+
+  .shopcategory-loadmore {
+    margin: 70px auto;
+    width: 203px;
+    height: 49px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 375px) {
+  .shopcategory-indexSort {
+    margin: 15px 25px;
+  }
+
+  .shopcategory-indexSort p {
+    font-size: 10px;
+  }
+
+  .shopcategory-sort {
+    padding: 3px 12px;
+    border-radius: 40px;
+    font-size: 10px;
+  }
+
+  .shopcategory-sort img {
+    height: 7px;
+  }
+
+  .shopcategory-products {
+    margin: 18px 20px;
+  }
+
+  .shopcategory-loadmore {
+    margin: 50px auto;
+    width: 180px;
+    height: 44px;
+    font-size: 11px;
+  }
+}

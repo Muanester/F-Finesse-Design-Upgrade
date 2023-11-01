@@ -1,0 +1,21 @@
+.product {
+  margin: 90px 100px;
+}
+
+@media (max-width: 780px) {
+  .product {
+    margin: 90px 100px;
+  }
+}
+
+@media (max-width: 450px) {
+  .product {
+    margin: 90px 40px;
+  }
+}
+
+@media (max-width: 375px) {
+  .product {
+    margin: 90px 20px;
+  }
+}
