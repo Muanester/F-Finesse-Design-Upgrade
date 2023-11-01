@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/F-Finesse-Design-Upgrade/static/css/main.de0b844f.css",
+    "main.css": "/F-Finesse-Design-Upgrade/static/css/main.fb422647.css",
     "main.js": "/F-Finesse-Design-Upgrade/static/js/main.85ff0a0f.js",
     "static/js/787.4ea5a4ce.chunk.js": "/F-Finesse-Design-Upgrade/static/js/787.4ea5a4ce.chunk.js",
     "static/media/dining10.jpg": "/F-Finesse-Design-Upgrade/static/media/dining10.e8526cab3a5422abd0ce.jpg",
@@ -46,12 +46,12 @@
     "static/media/seating7.webp": "/F-Finesse-Design-Upgrade/static/media/seating7.30d3af0297c90a60bb62.webp",
     "static/media/seating5.jpeg": "/F-Finesse-Design-Upgrade/static/media/seating5.a1f9d414692539c9cef9.jpeg",
     "index.html": "/F-Finesse-Design-Upgrade/index.html",
-    "main.de0b844f.css.map": "/F-Finesse-Design-Upgrade/static/css/main.de0b844f.css.map",
+    "main.fb422647.css.map": "/F-Finesse-Design-Upgrade/static/css/main.fb422647.css.map",
     "main.85ff0a0f.js.map": "/F-Finesse-Design-Upgrade/static/js/main.85ff0a0f.js.map",
     "787.4ea5a4ce.chunk.js.map": "/F-Finesse-Design-Upgrade/static/js/787.4ea5a4ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0b844f.css",
+    "static/css/main.fb422647.css",
     "static/js/main.85ff0a0f.js"
   ]
 }
